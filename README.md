@@ -9,7 +9,7 @@
   - Python
   - Docker
   - Golang
-- Three year experiences of develop, operation and management in mobile online game
+- Three years experience of develop, operation and management in mobile online game
 
 ## MIND
 - To develop tools and work for other or future member
@@ -21,7 +21,7 @@
   
 ## RESEARCH
 - Researching spoken dialog system using machine learning when I was at university
-  - Four year experiences of basic machine learning, speech signal analysis and natural language processing
+  - Four years experience of basic machine learning, speech signal analysis and natural language processing
 
 ## LEARNING
 - Linux
