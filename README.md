@@ -8,8 +8,9 @@
   - Python
   - Docker
   - Golang
+- Three year experiences of develop, operation and management in mobile online game
 
-## INTEREST
+## LEARNING
 - Linux
 - Basic CPU and OS architecture
 - Reverse Enginnering
