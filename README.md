@@ -12,7 +12,7 @@
 
 ## MIND
 - To develop tools and work for other or future member
-  - Be sure to write simple comment in product code
+  - Be sure to write simple comment in product code and keep architecture simple
   - Simple is better than complex (I don't like complicated)
 - Keep to learn low layer and English
   - Should learn low layer such as cpu or os architecture
