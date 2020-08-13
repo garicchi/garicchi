@@ -1,4 +1,5 @@
 # PORTFOLIO
+ゲーム業界でDevOpsエンジニアをしています。仲良くしてください
 
 ## WORK
 - DevOps enginner of mobile game development
