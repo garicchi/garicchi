@@ -1,16 +1,19 @@
-### Hi there 👋
+# PORTFOLIO
 
-<!--
-**garicchi/garicchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## WORK
+- DevOps enginner of mobile game development
+  - build fast and stable build pipeline in order to delivery game content to user rapidly
+- Currently use tools
+  - Jenkins
+  - Python
+  - Docker
+  - Golang
 
-Here are some ideas to get you started:
+## INTEREST
+- Linux
+- Basic CPU and OS architecture
+- Reverse Enginnering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## HOBBY
+- Watch anime
+  - thinking story, film direction
