@@ -4,7 +4,7 @@
 - DevOps enginner of mobile game development
   - build fast and stable build pipeline in order to delivery game content to user rapidly
 - Currently use tools
-  - Jenkins
+  - CI/CD knowledge(e.g. Jenkins)
   - Python
   - Docker
   - Golang
