@@ -17,7 +17,6 @@
   - Simple is better than complex (I don't like complicated)
 - Keep to learn low layer and English
   - Should learn low layer such as cpu or os architecture
-  - English skill is necessary in enginnering
   
 ## RESEARCH
 - Researching spoken dialog system using machine learning when I was at university
