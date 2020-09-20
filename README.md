@@ -1,6 +1,8 @@
 # PORTFOLIO
 ゲーム業界でDevOpsエンジニアをしています。仲良くしてください
 
+- [技術ブログ](https://garicchi.github.io)
+
 ## WORK
 - DevOps enginner of mobile game development
   - build fast and stable build pipeline in order to delivery game content to user rapidly
